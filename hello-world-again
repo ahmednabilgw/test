@@ -1,7 +1,0 @@
-#include <stdio.h>
-
-int main(void) {
-	// your code goes here
-	printf("from the branch\n");
-	return 0;
-}
