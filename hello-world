@@ -2,6 +2,6 @@
 
 int main(void) {
 	// your code goes here
-	printf("I'm the branch\n");
+	printf("Hello World\n");
 	return 0;
 }
